@@ -15,6 +15,9 @@ Built with HTML, CSS, and a little JavaScript.
 - `main.js` — small scripts  
 - `assets/` — images and other media
 
+##Live Demo
+View the live version here:
+
 ## License
 
 This project is free to use.
